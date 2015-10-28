@@ -1,2 +1,5 @@
 # my-todo
-create my own todos with help of local storage
+  - create todo
+  - rearrange the todos with the help of drag and dro
+  - can add duplicate todos
+  - created with [yeoman angular generator](https://github.com/yeoman/generator-angular)
